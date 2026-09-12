@@ -244,4 +244,4 @@ This repository serves as the official landing page for Nacsport. The software i
 **Get the most recent version of Nacsport today!**
 
 ---
-**Last updated:** 2026-09-12 21:20:04 UTC
+**Last updated:** 2026-09-12 23:45:28 UTC
